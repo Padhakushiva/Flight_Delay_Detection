@@ -128,14 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Project specific
-*.pkl
 
-*.xlsx
-*.json
-.streamlit/
-temp/
-logs/
 
 # macOS
 .DS_Store
