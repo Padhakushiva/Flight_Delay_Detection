@@ -229,9 +229,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Project Maintainer**: [Your Name]
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+**Project Maintainer**: [Shiva Choudhry]
+- GitHub: [@Padhakushiva](https://github.com/Padhakushiva)
+- LinkedIn: [Shiva Choudhry](https://www.linkedin.com/in/shivachoudhry/)
 - Email: your.email@example.com
 
 ---
