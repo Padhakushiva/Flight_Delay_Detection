@@ -232,7 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Project Maintainer**: [Shiva Choudhry]
 - GitHub: [@Padhakushiva](https://github.com/Padhakushiva)
 - LinkedIn: [Shiva Choudhry](https://www.linkedin.com/in/shivachoudhry/)
-- Email: your.email@example.com
+- Email: chaudharyshiva2008@example.com
 
 ---
 
