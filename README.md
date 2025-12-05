@@ -26,8 +26,8 @@ This project implements a robust machine learning pipeline to predict flight del
 Launch the interactive dashboard:
 
 ```bash
-git clone https://github.com/[your-username]/flight-delay-prediction
-cd flight-delay-prediction
+git clone https://github.com/Padhakushiva/Flight_Delay_Detection
+cd Flight_Delay_Detection
 pip install -r requirements.txt
 streamlit run flight_delay_dashboard.py
 ```
